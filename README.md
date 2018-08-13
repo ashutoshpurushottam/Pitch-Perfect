@@ -6,14 +6,14 @@ The app allows users to record a sound using the device’s microphone. It then 
 ## First Screen
 ----
 
-![Image of First Screen](https://drive.google.com/open?id=15CCAmMQiKwgxHUGuMVGZ3FmSPpNEdmoj)
+![Image of First Screen](https://github.com/ashutoshpurushottam/Images/blob/master/pp1.png?raw=true)
 
 The first consists a record button with a microphone image. Tapping this microphone button starts an audio recording session and present a stop button. When the stop button is clicked, the app completes recording and then show the PlaySound controller.
 
 ## Second Screen
 ----
 
-![Image of Second Screen](https://drive.google.com/open?id=1wuaClg2hiBAD0LSRy879H7q71RFLQSiC)
+![Image of Second Screen](https://github.com/ashutoshpurushottam/Images/blob/master/pp2.png?raw=true)
 
 The second screen contains six buttons to play the recorded sound file with different effects and a button to stop the playback.
 
